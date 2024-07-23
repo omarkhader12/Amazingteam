@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.service-item{
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+.clearfix{
+    clear:both;
+}
